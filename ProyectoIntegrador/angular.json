@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "proyectofinal/ProyectoIntegrador/node_modules/bootstrap/dis/css/bootstrap.css"
+              "node_modules/bootstrap/dis/css/bootstrap.css"
             ],
             "scripts": [
-              proyectofinal/ProyectoIntegrador/node_modules/bootstrap/dis/js/bootstrap.js
+              "node_modules/bootstrap/dis/js/bootstrap.js"
 
             ]
           },
